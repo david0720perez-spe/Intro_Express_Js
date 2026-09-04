@@ -1,0 +1,12 @@
+[
+    {"id":1,
+    "nombre":"jhony",
+    "correo":"david0720perez@gmail.com",
+    "imagen":"/imagenes/mifoto.pg",
+    "clave":"abc1230"},
+    {"id":2,
+    "nombre":"jhony",
+    "correo":"david0720perez@gmail.com",
+    "imagen":"/imagenes/mifoto.pg",
+    "clave":"abc1230"}
+]
